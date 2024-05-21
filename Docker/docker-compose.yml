@@ -1,0 +1,6 @@
+﻿services:
+  myminimalcleanarchwithauth0:
+    image: myminimalcleanarchwithauth0
+    build:
+      context: .
+      dockerfile: MyMinimalCleanArchWithAuth0/Dockerfile
