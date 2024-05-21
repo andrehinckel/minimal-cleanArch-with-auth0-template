@@ -1,0 +1,1 @@
+# minimal-cleanArch-with-auth0-template
